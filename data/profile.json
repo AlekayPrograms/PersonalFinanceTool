@@ -1,0 +1,32 @@
+{
+  "name": "Alex",
+  "gross_salary": 65000.0,
+  "take_home_pay": 48000.0,
+  "pay_frequency": "semimonthly",
+  "necessities_pct": 35.0,
+  "fun_pct": 20.0,
+  "savings_pct": 45.0,
+  "savings_account_pct": 50.0,
+  "investing_pct": 50.0,
+  "debt_pct_of_necessities": 0.0,
+  "roth_ira_enabled": true,
+  "roth_ira_contributed_ytd": 0.0,
+  "four01k_enabled": true,
+  "four01k_match_tiers": [
+    {"up_to_pct": 3, "match_rate": 100},
+    {"up_to_pct": 5, "match_rate": 50}
+  ],
+  "four01k_contribution_pct": 5.0,
+  "four01k_roth": true,
+  "four01k_contributed_ytd": 0.0,
+  "debt_enabled": true,
+  "watchlist": [
+    "AAPL",
+    "MSFT",
+    "GOOGL",
+    "AMZN",
+    "NVDA"
+  ],
+  "alpha_vantage_key": "YOUR_ALPHA_VANTAGE_API_KEY",
+  "debts": []
+}

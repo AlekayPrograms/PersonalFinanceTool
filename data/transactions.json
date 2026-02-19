@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2026-02-14",
+    "recommended_necessities": 369.23,
+    "recommended_fun": 369.23,
+    "recommended_savings": 1107.69,
+    "actual_necessities": 231.0,
+    "actual_fun": 1.0,
+    "actual_savings": 2.0,
+    "insights": [
+      "Necessities: Under budget by $138.23 (-37.4%)",
+      "Fun/Wants: Under budget by $368.23 (-99.7%)",
+      "Savings: Under budget by $1,105.69 (-99.8%)",
+      "Consider increasing savings next period."
+    ]
+  }
+]
