@@ -4,6 +4,7 @@
 
 Growing up in an immigrant family, financial literacy wasn't something that was taught - it was something I had to piece together on my own, often making costly mistakes along the way. Watching my family navigate a system that felt entirely foreign, with no safety net of inherited knowledge, sparked a deep interest in understanding money and how it works. I built this tool for people like us - those who weren't handed a financial roadmap and had to figure it out the hard way. My hope is that it makes managing personal finances a little more accessible, a little less intimidating, and a lot more empowering.
 
+
 According to the [GFLEC Personal Finance Index (2024)](https://gflec.org/initiatives/personal-finance-index/), financial literacy in the US has stagnated around 50% for eight consecutive years, with a 2% drop over the past two years - meaning roughly half of Americans still lack the foundational knowledge to make informed financial decisions. That number represents millions of real people struggling with debt, savings, and retirement planning without the tools to navigate it. This project is my small contribution toward closing that gap, built with the belief that financial education shouldn't be a privilege. If this tool helps even one person feel more in control of their finances, it's worth it.
 
 ## Features
